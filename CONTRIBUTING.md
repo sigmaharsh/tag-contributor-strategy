@@ -1,5 +1,5 @@
 # Contributor Strategy Technical Advisory Group Contributing Guide
-*this is a bootstrapped document that will update frequently in the next few
+*This is a bootstrapped document that will update frequently in the next few
 months as we lay the groundwork for the operations of the TAG. Now onto the
 show...:*
 
